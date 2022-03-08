@@ -3,3 +3,4 @@ modifcationt is done regrading checks
 
 
 check 3 for commit
+check 4 for all in one 
